@@ -2,8 +2,8 @@
 title: 王超的个人技术博客
 description: 这是一个记录学习生活的全栈记录博客，希望能够认识更多的朋友和大牛的指导。
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+#logo: assets/images/logo.png
+favicon: assets/images/Bigdate.ico
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://wangchao857.github.io/" # the base hostname & protocol for your site
 
@@ -18,14 +18,14 @@ pagination:
   per_page: 5
 
 # Social
-facebook: facebook
-twitter: twitter
+#facebook: facebook
+#twitter: twitter
 github:  github
 
 #Additional Pages
-about: about
-contact: contact
-privacy-policy: privacy-policy
+about: 关于
+contact: 联系
+privacy-policy: 隐私政策
 
 
 permalink: /:title
